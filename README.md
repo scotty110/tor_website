@@ -34,3 +34,7 @@ sudo service tor status
 
 ### Get Website
 `sudo cat /var/lib/tor/hidden_service/hostname`
+
+## Why
+I wanted a testbed for setting up a public website with possible endpoints, and tor allowed me to do that easier than setting up a domain.
+
